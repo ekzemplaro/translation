@@ -94,8 +94,173 @@ Please follow the instruction by doctor, nurse and staff at earthquake, disaster
 No money and no articles are received during and after the hospitalization.<p />
 Please consult with doctor or nurse about the treatment, the life and the care during the hospitalization.<p />
 No call from outside is forwarded.<p />
+<!-- ----------------------------------------------------------- -->
+<h2>Hospital room</h2>
+Single room or quartet room. Tripple room is available at 2B.<p />
+
+Room is assigned by age, gender and disease condition.<p />
+When a serious emergency patient is accepted, you might be requested to change the room.<p />
+
+A sinle room needs an extra charge. The extra charge is per one day (0:00 - 24:00).<p />
+
+Entering day and leaving day are charged as one day.<p />
+<!-- ----------------------------------------------------------- -->
+<h2>Visiting</h2>
+Visitors are restricted for safety and infectious prevention.<p />
+
+Visitors are parents, grandparents and over-13-year-old sibling.<p />
+
+Don't visit the patient when your condition is bad (ex. cold).<p />
+
+Visiting Time<br />
+<blockquote>
+	24 hours for parents (short time after lights-out)<br />
+	15:00 - 19:00 for grandparents and over-13-year-old sibling<br />
+</blockquote>
+For 2B visiting time, please check at the staff station.<p />
+
+<!-- ----------------------------------------------------------- -->
+<h2>Family standby</h2>
+You can't be on standby at multiple room.<p />
+Because of special reason you wish to be on standby, please consult with a doctor or a nurse.<p />
+An attendant family at a single room must be one person.<p />
+
+<!-- ----------------------------------------------------------- -->
+<h2>Ronald McDonald House Tochigi</h2>
+As a lodging for family & children you can use 'Ronald McDonald House Tochigi'.<p />
+Please contact with 'Ronald McDonald House Tochigi'.  Tel: 0285-58-7551.<p />
+
+<!-- ----------------------------------------------------------- -->
+<h2>Bill for the hospitalization</h2>
+During hospitalization: The bill is issued arount 10th on the follwing month, should be paid within a week.<p />
+
+Leaving the hospital: Billed on the leaving day. Should be paid on the leaving day. Because of paper works, the extra is billed after your leaving the hospital.<p />  
+
+Payment:<br />
+<blockquote>
+	Cashier at Tochigi Children's Medical Center<br />
+	Cashier at the Main Building<br />
+</blockquote>
+Expense for the hospitalization: The individual charge is defined by the Insuarance which you belong to.<p />
+The expense for the hospitalization is basically calculated by the total evaluating system for the special functional hospital.<p />
+
+Please keep receipts to request the medical deduction for the income tax.<p />
+
+If you use diapers prepared by the hospital, the diapers are charged.<p />
+
+Meal charge: 260 yen per a meal. 780 yen per a day. Refreshement is included in a lunch.<br />
+<blockquote>
+	When you have to wait a meal because of your inspection, the meal is prepared for you to eat after the inspection.<br />
+	Even though you don't eat it because of the inspection's delay, the meal is billed.<br />
+</blockquote>
+How to pay the bill and the time<p />
+Weekdays<br />
+<blockquote>
+	8:45 - 19:30<br />
+	<blockquote>
+	Cash, Credit Card, Debit Card<br />
+		<blockquote>
+		Automatic Cashier at Tochigi Children's Medical Center<br />
+		Automatic Cashier at the main building<br />
+		</blockquote>
+	</blockquote>
+	9:00 - 17:15<br />
+	<blockquote>
+	Cash<br />
+		<blockquote>
+		Cashier at Tochigi Children's Medical Center<br />
+		Cashier at the main building<br />
+		</blockquote>
+	</blockquote>
+	17'15 - 8:45 Next Morning<br />
+	<blockquote>
+	Cash, Credit Card, Debit Card<br />
+		<blockquote>
+		Automatic Cashier in front of the guard office east of the main building<br />
+		</blockquote>
+	</blockquote>
+</blockquote>
+
+Sat,Sun,Holidays,Anniversary of the founding,Year-end and New Year holidays<br />
+<blockquote>
+	0:00 - 24:00<br />
+	<blockquote>
+	Cash, Credit Card, Debit Card<br />
+		<blockquote>
+		Automatic Cashier in front of the guard office east of the main building<br />
+		</blockquote>
+	</blockquote>
+</blockquote>
+
+Notice<br />
+<blockquote>
+You need your consulation ticket when you pay the bill at an automatic cashier machine. Please request it at the staff station during the hospitalization.<br />
+You need a secret number to pay it with a credit card.<br />
+Debit Card means you pay it with a cash card of a bank or a post office. The bill will be derived from your account.<br />
+You can use Debit Card.<br />
+	<blockquote>
+	Weekday: 8:00 - 21:00<br />
+	Sat., Sun.: 9:00 - 19:00<br />
+	</blockquote>
+</blockquote>
+
+<!-- ----------------------------------------------------------- -->
+<h2>Procedure to leave the hospital</h2>
+The doctor in charge sets the leaving date. It might not fulfill the family's request.<p />
+
+When you leave the hospital, please get the bill at the staff station and pay it at the cashier on the 1st floor or the automatic cashier machine.<p />
+
+After payment please show the receipt to the nurse. After confirming you'll leave for your home.<p />
+
+The leaving time is basically until 11:00 a.m.<p />
+
+<!-- ----------------------------------------------------------- -->
+<h2>Consulation about the medical welfare</h2>
+
+Social workers at Medical Welfare Consulation Section will support to fix the family's worries and troubles.<p />
+
+Medical welfare consulation is free of charge. All secrets are kept. Telephone inquiery is 0285-58-7816.<p />
+	<blockquote>
+	Payment for medical charge, various welfare service, family, treatment service, school, Life after leaving the hospital, society for friends and parents of the same disease<br />
+	</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>Support for raising children</h2>
+Nursing consulation and residence support are done.<p />
+We support children and family in conjunction with local health consultants and nurses.<p />
+If you need to consult about medical treatment (medical treatment life, introduction and usage for residential medical treatment equipment, visiting nursing), call Tel: 0285-58-7817.<p />
+ 
+<!-- ----------------------------------------------------------- -->
+<h2>Facilities in the hospital</h2>
+Washing: you can use pay washing and drying machine on each floor.<p />
+
+'Donguri' at the 1st floor in Children's Medical Center. Daily necessaries, food and drink.<p />
+
+J plaza<br />
+<blockquote>
+	1F Main Building<br />
+	<blockquote>
+		'Family Mart', 'Starbucks', pharmacy, flower shop, barber<br />
+	</blockquote>
+	2F Main Building<br />
+	<blockquote>
+		restaurant<br />
+	</blockquote>
+</blockquote>
+1F Main Building<br />
+	<blockquote>
+	Post Office, Bank, ATM machine<br />
+	</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>Parking Fee</h2>
+
+Visitors' Parking<br />
+	<blockquote>
+	Free for the first 30 minutes. 100 yen per once for the following 24 hours (Approval seal is necessary).<br />
+	Without approval seal, 200 yen per an hour.<br />
+	</blockquote>
+Other parkings but the Visitors' Parking are basically not allowed to use.<p />
 
 
-<i>Feb/05/2016</i><br />
-
+<!-- ----------------------------------------------------------- -->
+<i>Feb/13/2016</i><br />
 <!-- ----------------------------------------------------------- -->

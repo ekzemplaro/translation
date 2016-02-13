@@ -21,3 +21,11 @@ margin-right: auto;
 span#magenta{color: magenta}
 span#green{color: green}
 span#blue{color: blue}
+
+
+div#contents
+{
+height: 520px;
+float: top;
+overflow: auto;
+}
