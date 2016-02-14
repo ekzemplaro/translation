@@ -94,9 +94,242 @@ Por favor, consulte con el médico o enfermera sobre el tratamiento, la vida y e
 
 Ninguna llamada desde fuera se reenvía.<p />
 <!-- ----------------------------------------------------------- -->
+<h2>
+Cuarto de hospital
+</h2>
+Habitación individual o sala de cuarteto. Habitación triple está disponible a 2B.
+<p />
+Habitación es asignado por edad, sexo y condición de la enfermedad.
+<p />
+Cuando se acepta un paciente grave situación de emergencia, se le podría pedir que cambiar la habitación.
+<p />
+Una habitación individual necesita un suplemento. El suplemento es por un día (0:00 - 24:00).
+<p />
+Introducción de día y dejando día se cargan como un día.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Visitando
+</h2>
+Los visitantes están restringidas por la seguridad y la prevención infecciosa.
+<p />
+Los visitantes son los padres, abuelos y hermanos exceso de 13 años de edad.
+<p />
+No visitar al paciente cuando su condición es mala (ej. Frío).
+<p />
+Tiempo de recorrido
+<br />
 <blockquote>
+24 horas para padres (poco tiempo después de apagar las luces)
+<br />
+15:00-19:00 para los abuelos y hermanos exceso de 13 años de edad
+<br />
 </blockquote>
+Para el tiempo visitando 2B, por favor verifica en la estación de personal.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+familia de espera
+</h2>
+No se puede estar en modo de espera en la sala múltiple.
+<p />
+Debido a razón especial que desea estar en modo de espera, por favor consulte con un médico o una enfermera.
+<p />
+Una familia acompañante, en una habitación individual debe ser una persona.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Ronald McDonald House Tochigi
+</h2>
+Como alojamiento para la familia y los niños se puede utilizar 'Ronald McDonald House Tochigi'.
+<p />
+Por favor, póngase en contacto con Ronald McDonald House Tochigi '. Tel: 0285-58-7551.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Factura de la hospitalización
+</h2>
+Durante la hospitalización: La factura se emite 10º arount en el mes siguientes aparatos, debe ser pagado en el plazo de una semana.
+<p />
+De salir del hospital: Anunciado en el día de salida. Debe ser pagado en el día de salida. Debido a obras de papel, el extra se factura después de su salida del hospital.
+<p />
+  Pago:
+<br />
+<blockquote>
+Cajero en el Centro Médico de Niños de Tochigi
+<br />
+Cajero en el Edificio Principal
+<br />
+</blockquote>
+Gasto para la hospitalización: La carga individuo se define por la Insuarance la que pertenece.
+<p />
+El gasto para la hospitalización es, básicamente, el sistema calcula la evaluación total para el hospital funcional especial.
+<p />
+Por favor, guarde los recibos para solicitar la deducción médica para el impuesto sobre la renta.
+<p />
+Si usa pañales preparados por el hospital, los pañales están cargadas.
+<p />
+carga de comidas 260 yenes por una comida. 780 yenes por un día. Refresco está incluido en un almuerzo.
+<br />
+<blockquote>
+Cuando se tiene que esperar una comida debido a su inspección, la comida está preparada para que comas después de la inspección.
+<br />
+A pesar de que usted no come debido a la demora de la inspección, la comida se factura.
+<br />
+</blockquote>
+Cómo pagar la factura y el tiempo
+<p />
+Días de la semana
+<br />
+<blockquote>
+8:45-19:30
+<br />
+<blockquote>
+Dinero en efectivo, tarjeta de crédito, tarjeta de débito
+<br />
+<blockquote>
+Cajero automático en el Centro Médico de Niños de Tochigi
+<br />
+Cajero automático en el edificio principal
+<br />
+</blockquote>
+</blockquote>
+9:00-17:15
+<br />
+<blockquote>
+Efectivo
+<br />
+<blockquote>
+Cajero en el Centro Médico de Niños de Tochigi
+<br />
+Cajero en el edificio principal
+<br />
+</blockquote>
+</blockquote>
+17'15 - 8:45 de la mañana siguiente
+<br />
+<blockquote>
+Dinero en efectivo, tarjeta de crédito, tarjeta de débito
+<br />
+<blockquote>
+Cajero automático en frente de la oficina de guardia al este del edificio principal
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+S, D, días de fiesta, aniversario de la fundación, de fin de año y Año Nuevo
+<br />
+<blockquote>
+0:00 - 24:00
+<br />
+<blockquote>
+Dinero en efectivo, tarjeta de crédito, tarjeta de débito
+<br />
+<blockquote>
+Cajero automático en frente de la oficina de guardia al este del edificio principal
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+darse cuenta
+<br />
+<blockquote>
+Es necesario el consulation billete cuando se paga la factura en una máquina de cajero automático. Por favor solicitarlo en la estación de personal durante la hospitalización.
+<br />
+Se necesita un número secreto que pagar con una tarjeta de crédito.
+<br />
+Tarjeta de débito significa que paga con una tarjeta de débito de un banco o una oficina de correos. El proyecto de ley se deriva de su cuenta.
+<br />
+Puede utilizar la tarjeta de débito.
+<br />
+<blockquote>
+Día de la semana: 08:00-21:00
+<br />
+Sab, Dom .: 9:00-19:00
+<br />
+</blockquote>
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Procedimiento para salir del hospital
+</h2>
+El médico a cargo establece la fecha de salida. Puede que no cumplir con la petición de la familia.
+<p />
+Cuando salga del hospital, por favor conseguir la factura en la estación de personal y pagar en el cajero en el 1er piso o la máquina de cajero automático.
+<p />
+Después del pago muestre el comprobante a la enfermera. Después de confirmar que nos dejará para su hogar.
+<p />
+El tiempo es, básicamente, dejando hasta 11 a.m.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Consulation por el bienestar médica
+</h2>
+Los trabajadores sociales en medicina Bienestar Sección Consulta apoyarán para solucionar problemas y preocupaciones de la familia.
+<p />
+el consulation bienestar médico es gratis. Todos los secretos se mantienen. Consulta por teléfono es 0285-58-7816.
+<p />
+<blockquote>
+El pago de la carga médica, diversos servicios de bienestar, familia, servicio de tratamiento, la escuela, la vida después de salir del hospital, de la sociedad para los amigos y los padres de la misma enfermedad
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+El apoyo a la crianza de niños
+</h2>
+el consulation de enfermería y apoyo residencia se llevan a cabo.
+<p />
+Apoyamos a los niños y la familia en conjunto con consultores locales de salud y enfermeras.
+<p />
+Si es necesario consultar acerca del tratamiento médico (la vida el tratamiento médico, la introducción y el uso de equipos residenciales de tratamiento médico, la visita de enfermería), llamar al Tel: 0285-58-7817.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Instalaciones en el hospital
+</h2>
+Lavado: se puede usar el lavado de pago y secadora en cada piso.
+<p />
+'Donguri' en el 1 ° piso en el Centro Médico de Niños. cosas necesarias diarias, comida y bebida.
+<p />
+J plaza
+<br />
+<blockquote>
+1F Edificio Principal
+<br />
+<blockquote>
+'Family Mart', 'Starbucks', farmacia, tienda de flores, peluquero
+<br />
+</blockquote>
+2F Edificio Principal
+<br />
+<blockquote>
+restaurante
+<br />
+</blockquote>
+</blockquote>
+1F Edificio Principal
+<br />
+<blockquote>
+La oficina de correos, banco, cajero automático
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Cuota de parqueo
+</h2>
+Aparcamiento visitante
+<br />
+<blockquote>
+Gratis para los primeros 30 minutos. 100 yenes por vez para las siguientes 24 horas (sello de aprobación es necesaria).
+<br />
+Sin sello de aprobación, a 200 yenes por hora.
+<br />
+</blockquote>
+Otros aparcamientos pero el estacionamiento de visitantes, básicamente, no se les permite usar.
+<p />
+<!-- ----------------------------------------------------------- -->
 
-<i>el 5 de enero de 2016</i><br />
+<!-- ----------------------------------------------------------- -->
+<i>el 14 de enero de 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->

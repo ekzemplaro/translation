@@ -104,11 +104,242 @@ Por favor consulte o médico ou enfermeira sobre o tratamento, a vida e os cuida
 Nenhuma chamada de fora é encaminhado.<p />
 
 <!-- ----------------------------------------------------------- -->
-
+<h2>
+quarto de hospital
+</h2>
+Quarto individual ou sala de quarteto. quarto triplo está disponível no 2B.
+<p />
+Quarto é atribuído por idade, sexo e condição de doença.
+<p />
+Quando um paciente de emergência grave for aceito, você poderá ser solicitado a mudar o quarto.
+<p />
+Um quarto individual tem um custo extra. O custo adicional é por um dia (00:00 - 24:00).
+<p />
+Entrando dia e deixando os dias são cobrados como um dia.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+visitante
+</h2>
+Os visitantes são restritos para segurança e prevenção infecciosa.
+<p />
+Os visitantes são pais, avós e irmãos over-13-year-old.
+<p />
+Não visitar o paciente quando sua condição é ruim (ex. Frio).
+<p />
+Visiting Tempo
+<br />
 <blockquote>
+24 horas para pais (curto período de tempo após o lights-out)
+<br />
+15:00-19:00 para avós e irmãos over-13-year-old
+<br />
 </blockquote>
+Para 2B tempo visita, por favor, verifique no posto de equipe.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+standby família
+</h2>
+Você não pode estar em estado de espera na sala de múltiplo.
+<p />
+Devido a razão especial que você deseja ser em modo de espera, por favor consultar com um médico ou um enfermeiro.
+<p />
+Uma família de atendente em uma única sala deve ser uma pessoa.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Ronald McDonald House Tochigi
+</h2>
+Como um alojamento para a família e as crianças que você pode usar 'Ronald McDonald House Tochigi'.
+<p />
+Entre em contato com o "Ronald McDonald House Tochigi '. Tel: 0285-58-7551.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Bill para a hospitalização
+</h2>
+Durante a internação: O projeto de lei é emitido 10º arount no mês follwing, deve ser pago no prazo de uma semana.
+<p />
+Deixando o hospital: Anunciado no dia de sair. Deve ser pago no dia de sair. Devido a obras de papel, o extra é cobrado após a sua saída do hospital.
+<p />
+  Pagamento:
+<br />
+<blockquote>
+Caixa do Centro Médico de Tochigi Crianças
+<br />
+Caixa no Edifício Principal
+<br />
+</blockquote>
+Despesa para a internação: a carga individual é definido pela Insuarance qual você pertence.
+<p />
+A despesa para a hospitalização está basicamente calculada por todo o sistema de avaliação para o hospital funcional especial.
+<p />
+Por favor, mantenha os recibos para solicitar a dedução médica para o imposto de renda.
+<p />
+Se você usar fraldas preparados pelo hospital, as fraldas são cobrados.
+<p />
+carga de refeições: 260 ienes por uma refeição. 780 ienes por um dia. Refreshement está incluído em um almoço.
+<br />
+<blockquote>
+Quando você tem que esperar uma refeição por causa de sua inspeção, a refeição é preparada para você comer após a inspeção.
+<br />
+Mesmo que você não comê-lo por causa do atraso da inspeção, a refeição é faturada.
+<br />
+</blockquote>
+Como pagar a conta e o tempo
+<p />
+Dias da semana
+<br />
+<blockquote>
+8:45-19:30
+<br />
+<blockquote>
+Dinheiro, Cartão de Crédito, Cartão de Débito
+<br />
+<blockquote>
+Caixa automática no Centro Médico de Tochigi Crianças
+<br />
+Caixa automático no edifício principal
+<br />
+</blockquote>
+</blockquote>
+9:00-17:15
+<br />
+<blockquote>
+Dinheiro
+<br />
+<blockquote>
+Caixa do Centro Médico de Tochigi Crianças
+<br />
+Caixa no edifício principal
+<br />
+</blockquote>
+</blockquote>
+17'15 - 08:45 Manhã Seguinte
+<br />
+<blockquote>
+Dinheiro, Cartão de Crédito, Cartão de Débito
+<br />
+<blockquote>
+Caixa automática em frente ao escritório guarda leste do edifício principal
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Sáb, Dom, feriados, aniversário da fundação, no final do ano e Ano Novo feriados
+<br />
+<blockquote>
+00:00 - 24:00
+<br />
+<blockquote>
+Dinheiro, Cartão de Crédito, Cartão de Débito
+<br />
+<blockquote>
+Caixa automática em frente ao escritório guarda leste do edifício principal
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Aviso prévio
+<br />
+<blockquote>
+Você precisa do seu bilhete de consulation quando você pagar a conta em uma máquina de caixa automática. Por favor solicitá-lo na estação de equipe durante a hospitalização.
+<br />
+Você precisa de um número secreto para pagá-lo com um cartão de crédito.
+<br />
+Cartão de débito significa que você paga-lo com um cartão de dinheiro de um banco ou de uma estação de correios. O projeto de lei será derivado de sua conta.
+<br />
+Você pode usar o cartão de débito.
+<br />
+<blockquote>
+Dia da semana: 8:00-21:00
+<br />
+Sáb, Dom .: 9:00-19:00
+<br />
+</blockquote>
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Procedimento para deixar o hospital
+</h2>
+O médico responsável define a data de partida. Pode não cumprir o pedido da família.
+<p />
+Quando você deixar o hospital, por favor obter o Bill na estação de pessoal e pagar no caixa no 1º andar ou a máquina de caixa automática.
+<p />
+Após o pagamento, por favor mostrar o recibo para a enfermeira. Após a confirmação de que você vai deixar para sua casa.
+<p />
+O tempo de sair é basicamente até 11:00
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Consulation sobre o bem-estar médica
+</h2>
+trabalhadores sociais a consulta bem-estar seção Medical apoiará para corrigir preocupações e problemas da família.
+<p />
+consulation bem-estar médica é gratuita. Todos os segredos são mantidos. inquérito por telefone é 0285-58-7816.
+<p />
+<blockquote>
+O pagamento de taxa de médico, vários serviços de bem-estar, família, serviço de tratamento, escola, vida após deixar o hospital, a sociedade de amigos e pais da mesma doença
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Apoio à criação dos filhos
+</h2>
+consulation de enfermagem e apoio residência está feito.
+<p />
+Apoiamos as crianças e familiares em conjunto com consultores locais de saúde e enfermeiros.
+<p />
+Se você precisa consultar sobre o tratamento médico (a vida tratamento médico, introdução e uso de equipamentos de tratamento médico residencial, visita de enfermagem), ligue para Tel: 0285-58-7817.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Facilidades no hospital
+</h2>
+Lavagem: você pode usar a lavagem de remuneração e máquina de secagem em cada andar.
+<p />
+"Donguri 'no 1º andar no Centro Médico Infantil. necessaries diários, comida e bebida.
+<p />
+J plaza
+<br />
+<blockquote>
+Edifício Principal 1F
+<br />
+<blockquote>
+'Family Mart', 'Starbucks', farmácia, loja de flores, barbeiro
+<br />
+</blockquote>
+Edifício Principal 2F
+<br />
+<blockquote>
+restaurante
+<br />
+</blockquote>
+</blockquote>
+Edifício Principal 1F
+<br />
+<blockquote>
+Correios, banco, caixa eletrônico
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Taxa de estacionamento
+</h2>
+Estacionamento dos visitantes
+<br />
+<blockquote>
+Gratuito para os primeiros 30 minutos. 100 ienes por vez para as 24 horas seguintes (selo de aprovação é necessária).
+<br />
+Sem selo de aprovação, 200 ienes por hora.
+<br />
+</blockquote>
+Outros parques de estacionamento, mas o estacionamento de visitantes, basicamente, não estão autorizados a usar.
+<p />
+<!-- ----------------------------------------------------------- -->
 
-
-<i>5 de fevereiro, 2016</i><br />
+<!-- ----------------------------------------------------------- -->
+<i>14 de fevereiro, 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->

@@ -95,11 +95,245 @@ Bitte wenden Sie sich an Arzt oder eine Krankenschwester über die Behandlung, d
 
 Kein Anruf von außerhalb wird weitergeleitet.<p />
 
+
 <!-- ----------------------------------------------------------- -->
+<h2>
+Krankenzimmer
+</h2>
+Einzelzimmer oder Quartett Raum. Dreibett-Zimmer ist in 2B zur Verfügung.
+<p />
+Das Zimmer ist nach Alter, Geschlecht und Krankheitszustand zugeordnet.
+<p />
+Wenn ein Notfall, Patient akzeptiert wird, können Sie aufgefordert werden, den Raum zu verändern.
+<p />
+Ein Einzelzimmer muss eine zusätzliche Gebühr. Der Aufpreis ist pro Tag (0:00 - 24:00 Uhr).
+<p />
+Anfang des Tages und Abreisetag werden als ein Tag berechnet.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Besuch
+</h2>
+Die Besucher werden für die Sicherheit und Infektionsprävention beschränkt.
+<p />
+Besucher sind Eltern, Großeltern und über-13-jährigen Geschwister.
+<p />
+Den Patienten nicht besuchen, wenn Ihr Zustand ist schlecht (ex. Kalt).
+<p />
+Sprechzeit
+<br />
 <blockquote>
+24 Stunden für die Eltern (kurze Zeit nach der Lights-Out)
+<br />
+15.00 bis 19.00 Uhr für Großeltern und über-13-jährigen Geschwister
+<br />
 </blockquote>
+Für 2B Besuchszeit, überprüfen Sie bitte an der Personalstation.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Familienbereitschafts
+</h2>
+Sie können nicht auf mehrere Zimmer in Bereitschaft sein.
+<p />
+Aufgrund der speziellen Grund, warum Sie in Bereitschaft zu sein wünschen, wenden Sie sich an einen Arzt oder eine Krankenschwester.
+<p />
+Ein begleitendes Familie in einem Einzelzimmer muss eine Person sein.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Ronald McDonald House Tochigi
+</h2>
+Als Unterkunft für Familien und Kinder können Sie "Ronald McDonald House Tochigi 'verwenden.
+<p />
+Bitte nehmen Sie Kontakt mit "Ronald McDonald House Tochigi '. Tel: 0285-58-7551.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Rechnung für den Krankenhausaufenthalt
+</h2>
+Während des Krankenhausaufenthaltes: Die Rechnung arount 10. auf den follwing Monat abgesetzt wird, sollte innerhalb einer Woche bezahlt werden.
+<p />
+Beim Verlassen des Krankenhauses: Berechnet auf der Abgangs Tag. Sollte am Tag der Abreise bezahlt. Wegen der Papierarbeiten wird die zusätzliche Rechnung nach dem Verlassen des Krankenhauses.
+<p />
+  Zahlung:
+<br />
+<blockquote>
+Kassierer in Tochigi Kinder Medical Center
+<br />
+Kassiererin im Hauptgebäude
+<br />
+</blockquote>
+Kosten für den Krankenhausaufenthalt: Die einzelnen Ladung durch die Insuarance definiert ist, der Sie angehören.
+<p />
+Die Kosten für den Krankenhausaufenthalt ist im Wesentlichen durch die Gesamtauswertungssystems für die speziellen Funktions Krankenhaus berechnet.
+<p />
+Bitte halten Sie Quittungen der medizinischen Abzug für die Einkommensteuer zu beantragen.
+<p />
+Wenn Sie von der Klinik vorbereitet Windeln verwenden, werden die Windeln gefüllt.
+<p />
+Mahlzeit Gebühr: ¥ 260 pro einer Mahlzeit. ¥ 780 pro einen Tag. Erfrischungen in einem Mittagessen enthalten.
+<br />
+<blockquote>
+Wenn Sie eine Mahlzeit warten müssen, weil der Inspektion wird der Mahlzeit zubereitet für Sie nach der Inspektion zu essen.
+<br />
+Auch wenn Sie es nicht essen, weil die Verzögerung der Prüfung wird die Mahlzeit in Rechnung gestellt.
+<br />
+</blockquote>
+Wie die Rechnung und die Zeit zu zahlen
+<p />
+Wochentage
+<br />
+<blockquote>
+8.45 bis 19.30 Uhr
+<br />
+<blockquote>
+Bargeld, Kreditkarte, Debitkarte
+<br />
+<blockquote>
+Automatische Kassierer in Tochigi Kinder Medical Center
+<br />
+Automatische Kassierer im Hauptgebäude
+<br />
+</blockquote>
+</blockquote>
+9.00 bis 17.15 Uhr
+<br />
+<blockquote>
+Kasse
+<br />
+<blockquote>
+Kassierer in Tochigi Kinder Medical Center
+<br />
+Kassierer im Hauptgebäude
+<br />
+</blockquote>
+</blockquote>
+17'15 - 08.45 Next Morgen
+<br />
+<blockquote>
+Bargeld, Kreditkarte, Debitkarte
+<br />
+<blockquote>
+Automatische Kassierer vor der Wache Büro östlich des Hauptgebäudes
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Sa, So, Feiertage, Jahrestag der Gründung, am Jahresende und Neujahr
+<br />
+<blockquote>
+0:00 - 24:00 Uhr
+<br />
+<blockquote>
+Bargeld, Kreditkarte, Debitkarte
+<br />
+<blockquote>
+Automatische Kassierer vor der Wache Büro östlich des Hauptgebäudes
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Beachten
+<br />
+<blockquote>
+Sie müssen Ihre Rücksprache Ticket, wenn Sie die Rechnung an eine automatische Kassierer Maschine zahlen. Bitte fordern Sie sie an der Personalstation während des Krankenhausaufenthaltes.
+<br />
+Sie müssen eine Geheimzahl mit einer Kreditkarte zu bezahlen.
+<br />
+Debit-Karte bedeutet, dass Sie es mit einer EC-Karte von einer Bank oder einem Postamt zahlen. Die Rechnung wird von Ihrem Konto abgeleitet werden.
+<br />
+Sie können Bankkarte verwenden.
+<br />
+<blockquote>
+Wochentag: 8.00 bis 21.00 Uhr
+<br />
+Sa., So .: 9.00 bis 19.00 Uhr
+<br />
+</blockquote>
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Vorgehensweise verlassen das Krankenhaus
+</h2>
+Der zuständige Arzt setzt das Austrittsdatum. Es ist vielleicht nicht die Anforderung des Familien erfüllen.
+<p />
+Wenn Sie das Krankenhaus verlassen, bitte die Rechnung an das Personal der Station und bezahlen sie an der Kasse auf der 1. Etage oder die automatische Kassierer-Maschine.
+<p />
+Nach der Bezahlung zeigen Sie bitte den Eingang zu der Krankenschwester. Nach der Bestätigung werden Sie für Ihr Haus verlassen.
+<p />
+Die Abgangszeit ist grundsätzlich bis 11.00 Uhr
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Consulation über die medizinische Fürsorge
+</h2>
+Sozialarbeiter bei Medical Welfare Beratung Abschnitt unterstützt die Familie der Sorgen und Probleme zu beheben.
+<p />
+Medizinische Fürsorge consulation ist kostenfrei. Alle Geheimnisse gehalten werden. Telefonauskunft ist 0285-58-7816.
+<p />
+<blockquote>
+Die Zahlung für medizinische Ladung, verschiedene Fürsorge, Familie, Behandlung Service, Schule, Leben nach dem Verlassen des Krankenhauses, der Gesellschaft für Freunde und Eltern von der gleichen Krankheit
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Unterstützung für die Kindererziehung
+</h2>
+Pflege consulation und Aufenthalts Unterstützung sind fertig.
+<p />
+Wir unterstützen Kinder und Familie in Verbindung mit den örtlichen Gesundheitsberater und Krankenschwestern.
+<p />
+Wenn Sie brauchen, um über die medizinische Behandlung (medizinische Behandlung Leben, Einführung und Nutzung für Wohn medizinische Behandlung Ausrüstung, Besuch Krankenpflege) zu konsultieren, rufen Sie Tel: 0285-58-7817.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Einrichtungen im Krankenhaus
+</h2>
+Waschen: Sie können auf jeder Etage Pay-Waschmaschine und Trockner benutzen.
+<p />
+'Donguri "im 1. Stock in Kinder Medical Center. Täglichen Bedarfs, Essen und Trinken.
+<p />
+J Plaza
+<br />
+<blockquote>
+1F Hauptgebäude
+<br />
+<blockquote>
+"Family Mart", "Starbucks", Apotheke, Blumenladen, Friseur
+<br />
+</blockquote>
+2F Hauptgebäude
+<br />
+<blockquote>
+Restaurant
+<br />
+</blockquote>
+</blockquote>
+1F Hauptgebäude
+<br />
+<blockquote>
+Post, Bank, Geldautomat
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Parkgebühr
+</h2>
+Besucherpark
+<br />
+<blockquote>
+Kostenlos für die ersten 30 Minuten. ¥ 100 pro einmal für die folgenden 24 Stunden (Zulassung Dichtung ist erforderlich).
+<br />
+Ohne Zustimmung Dichtung 200 Yen pro Stunde.
+<br />
+</blockquote>
+Weitere Parkplätze, aber das Besucherparkplätze sind im Grunde nicht zu nutzen.
+<p />
+<!-- ----------------------------------------------------------- -->
 
+<!-- ----------------------------------------------------------- -->
 
-<i>den 5. Februar, 2016</i><br />
+<i>den 14. Februar, 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->

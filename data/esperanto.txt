@@ -94,10 +94,243 @@ Bonvolu konsulti kun kuracisto aŭ flegistino pri la traktado, la vivo kaj la zo
 
 Neniu alvoko de ekstere estas plusendita.<p />
 
-
+<!-- ----------------------------------------------------------- -->
+<h2>
+hospitalo ĉambro
+</h2>
+Sola ĉambro aŭ kvarteto ĉambro. Triobla ĉambro disponeblas ĉe 2B.
+<p />
+Ĉambro estas atribuita por aĝo, sekso kaj malsano kondiĉo.
+<p />
+Kiam serioza krizo paciento estas akceptita, vi povus esti petita ŝanĝi la ĉambron.
+<p />
+Sola ĉambro bezonas ekstra posteno. La ekstra ŝarĝo estas po unu tago (0:00 - 24:00).
+<p />
+Enirante tago kaj lasante tago estas ŝargita kiel unu tago.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+vizitante
+</h2>
+Vizitantoj estas limigitaj por sekureco kaj infektaj antaŭzorgo.
+<p />
+Vizitantoj estas gepatroj, geavoj kaj super-13-jaraĝa frato.
+<p />
+Ne viziti la pacienton kiam via kondiĉo estas malbona (ej. Malvarma).
+<p />
+Visiting Tempo
+<br />
 <blockquote>
+24 horoj por gepatroj (nelonge post lumoj-out)
+<br />
+15:00 - 19:00 por avoj kaj super-13-jaraĝa gefrato
+<br />
 </blockquote>
+Por 2B vizitante tempon, bonvolu kontroli ĉe la stabo stacidomo.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+familio standby
+</h2>
+Vi ne povas esti sur standby ĉe multoblaj ĉambro.
+<p />
+Pro speciala kialo vi deziras esti sur standby, bonvolu konsulti kun kuracisto aŭ flegistino.
+<p />
+Servisto familio en unu ĉambro devas esti unu persono.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Ronald McDonald House Tochigi
+</h2>
+Kiel tranoktejo por familio & infanoj povas uzi 'Ronald McDonald House Tochigi'.
+<p />
+Bonvolu kontakti kun 'Ronald McDonald House Tochigi'. Tel: 0285-58-7551.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Bekon por la hospitalización
+</h2>
+Dum hospitalización: La beko estas emisiita arount 10a sur la follwing monato, estu pagitaj en semajno.
+<p />
+Lasante la hospitalo: Proklamite la forlasante tago. Devus esti pagita sur la forlasante tago. Pro papero verkoj, la ekstra estas fakturita post via forlasante la hospitalon.
+<p />
+  pago:
+<br />
+<blockquote>
+Kasisto ĉe Tochigi Infana Medicina Centro
+<br />
+Kasisto ĉe la Ĉefa Konstruaĵo
+<br />
+</blockquote>
+Elspezo por la hospitalización: La individua zorge difinas la Insuarance kiu vi apartenas.
+<p />
+Malprofite por la hospitalización estas esence kalkulita per la totala taksado sistemo por la speciala funkcia hospitalo.
+<p />
+Bonvolu teni kvitancojn peti la medicina depreno por la enspezimposto.
+<p />
+Se vi uzas vindotukojn preparita de la hospitalo, la vindotukoj estas ŝargita.
+<p />
+Manĝo zorge: 260 eno por manĝo. 780 eno po tago. Refreshement estas inkluzivita en lunĉo.
+<br />
+<blockquote>
+Kiam vi devos atendi manĝo pro via inspektado, la manĝo estas preta por vi manĝi post la inspektado.
+<br />
+Kvankam vi ne mangxu, pro la inspektado de malfruo, la manĝo estas fakturita.
+<br />
+</blockquote>
+Kiel pagi la fakturon kaj la tempo
+<p />
+labortagoj
+<br />
+<blockquote>
+8:45 - 19:30
+<br />
+<blockquote>
+Kontanta, Kredita Karto, Debit Karto
+<br />
+<blockquote>
+Aŭtomata Cashier en Tochigi Infana Medicina Centro
+<br />
+Aŭtomata Cashier ĉe la ĉefkonstruaĵo
+<br />
+</blockquote>
+</blockquote>
+9:00 - 17:15
+<br />
+<blockquote>
+kontanta
+<br />
+<blockquote>
+Kasisto ĉe Tochigi Infana Medicina Centro
+<br />
+Kasisto ĉe la ĉefkonstruaĵo
+<br />
+</blockquote>
+</blockquote>
+17'15 - 8:45 Sekva Mateno
+<br />
+<blockquote>
+Kontanta, Kredita Karto, Debit Karto
+<br />
+<blockquote>
+Aŭtomata Cashier antaŭ la korpogardistoj oficejo oriente de la ĉefa konstruaĵo
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Sidita, Suno, Ferioj, Datreveno de la fondo, Jarfina kaj Nova Jaro ferioj
+<br />
+<blockquote>
+0:00 - 24:00
+<br />
+<blockquote>
+Kontanta, Kredita Karto, Debit Karto
+<br />
+<blockquote>
+Aŭtomata Cashier antaŭ la korpogardistoj oficejo oriente de la ĉefa konstruaĵo
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Avizo
+<br />
+<blockquote>
+Vi bezonas vian consulation bileton kiam vi pagas la kalkulon je aŭtomata kasisto maŝino. Bonvolu peti ĝin ĉe la stabo stacidomo dum la hospitalización.
+<br />
+Vi bezonas sekretan numeron pagi per kreditkarto.
+<br />
+Egreso Karto signifas vin pagas ĝin per kontanta karto de banko aŭ poŝtoficejo. La fakturo esti derivita de via konto.
+<br />
+Vi povas uzi Debit Karto.
+<br />
+<blockquote>
+Semajntago: 8:00 - 21:00
+<br />
+Sat. Sun .: 9:00 - 19:00
+<br />
+</blockquote>
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Proceduron por forlasi la hospitalon
+</h2>
+La kuracisto zorge fiksas la foriro dato. Ĝi povus plenumi la familia peto.
+<p />
+Kiam vi forlasas la hospitalon, bonvolu akiri la beko ĉe la stabo stacidomo kaj pagi ĝin ĉe la kasisto de la 1-a etaĝo aŭ la aŭtomata kasisto maŝino.
+<p />
+Post pago bonvolu montri la kvitancon al la flegistino. Post konfirmi vi lasos vian hejmon.
+<p />
+La forlasante tempo estas esence ĝis 11:00 a horo matene
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Consulation pri la medicina bonstato
+</h2>
+Sociaj laboristoj ĉe Medical Welfare Konsulto Sekcio subtenos ripari la familio ĉagrenoj kaj problemoj.
+<p />
+Medicinaj bonstato consulation estas senpage. Ĉiuj sekretoj kiuj gardis. Telefona enketo estas 0285-58-7816.
+<p />
+<blockquote>
+Pago por medicinaj arangxojn diversajn bonstato servo, familio, kuracado servo, lernejo, Vivo post forlasi la hospitalon, socio por amikoj kaj gepatroj de la sama malsano
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Subteno por mamnutri infanojn
+</h2>
+Flega consulation kaj restadejo subteno finis.
+<p />
+Ni apogas infanoj kaj familio kunlabore kun lokaj sano konsultistoj kaj flegistinoj.
+<p />
+Se vi bezonas konsulti pri kuracado (kuracado vivo, enkonduko kaj uzado por loĝdoma medicina traktado teamo, vizitante flego), voku Tel: 0285-58-7817.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Instaladoj en la hospitalo
+</h2>
+Lavi: vi povas uzi salajro lavi kaj sekigi maŝino sur ĉiu etaĝo.
+<p />
+'Donguri' je la 1-a etaĝo en Infana Medicina Centro. Ĉiutagaj necesaĵoj, manĝaĵon kaj trinkaĵon.
+<p />
+J placo
+<br />
+<blockquote>
+1F Ĉefa Konstruaĵo
+<br />
+<blockquote>
+'Familio Mart', 'Starbucks', apoteko, floro butiko, frizisto
+<br />
+</blockquote>
+2F Ĉefa Konstruaĵo
+<br />
+<blockquote>
+restoracio
+<br />
+</blockquote>
+</blockquote>
+1F Ĉefa Konstruaĵo
+<br />
+<blockquote>
+Poŝtejo, Banko, ATM machine
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Parkado Kotizo
+</h2>
+Vizitantoj 'Parkumado
+<br />
+<blockquote>
+Libera por la unuaj 30 minutoj. 100 eno po unufoje por la sekvanta 24 horoj (Aprobo stampo estas necesa).
+<br />
+Sen aprobo sigelon, 200 eno po horo.
+<br />
+</blockquote>
+Aliaj parkejoj sed la Vizitantoj 'Parkumado estas esence ne rajtas uzi.
+<p />
+<!-- ----------------------------------------------------------- -->
 
-<i>la 5-an de februaro, 2016</i><p />
+<!-- ----------------------------------------------------------- -->
+<i>la 14-an de februaro, 2016</i><p />
 
 <!-- ----------------------------------------------------------- -->

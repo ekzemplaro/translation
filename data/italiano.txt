@@ -102,11 +102,244 @@ Si prega di consultare il medico o l'infermiere per il trattamento, la vita e la
 Nessuna chiamata dall'esterno viene inoltrata.<p />
 
 <!-- ----------------------------------------------------------- -->
-
+<h2>
+Hospital room
+</h2>
+Camera singola o camera quartetto. Camera tripla è disponibile presso 2B.
+<p />
+Camera viene assegnato per età, sesso e condizione di malattia.
+<p />
+Quando un grave paziente emergenza viene accettata, potrebbe essere richiesto di cambiare la camera.
+<p />
+Una camera singola ha bisogno di un supplemento. Il costo aggiuntivo è per una giornata (00:00 - 24:00).
+<p />
+Entrando giorno e lasciando giorno pagano come un giorno.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Visitando
+</h2>
+I visitatori sono limitati per la sicurezza e la prevenzione infettiva.
+<p />
+I visitatori sono i genitori, nonni e over-13-year-old fratello.
+<p />
+Non visitare il paziente quando la sua condizione è male (es. Freddo).
+<p />
+Visiting Tempo
+<br />
 <blockquote>
+24 ore per i genitori (poco tempo dopo lights-out)
+<br />
+15:00-19:00 per nonni e over-13-year-old fratello
+<br />
 </blockquote>
+Per 2B tempo visitando, si prega di controllare presso la stazione di personale.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+standby Famiglia
+</h2>
+Non si può essere in stand-by in camera multipla.
+<p />
+A causa della ragione speciale che si desidera essere in stand-by, si prega di consultare un medico o un infermiere.
+<p />
+Una famiglia addetto ad una camera singola deve essere una sola persona.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Tochigi Ronald McDonald House
+</h2>
+Come un alloggio per la famiglia e bambini si può usare 'Ronald McDonald House Tochigi'.
+<p />
+Si prega di contattare con 'Ronald McDonald House Tochigi'. Tel: 0285-58-7551.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Bill per il ricovero in ospedale
+</h2>
+Durante il ricovero in ospedale: Il disegno di legge è rilasciato il 10 arount sul mese follwing, dovrebbe essere pagato entro una settimana.
+<p />
+Lasciando l'ospedale: Presentato il giorno di partenza. Dovrebbe essere pagato il giorno di partenza. A causa di opere di carta, l'extra è classificato dopo la vostra lasciato l'ospedale.
+<p />
+  Pagamento:
+<br />
+<blockquote>
+Cassiere a Tochigi Centro medico infantile di
+<br />
+Cassiere presso l'edificio principale
+<br />
+</blockquote>
+Spese per il ricovero in ospedale: La carica individuale è definito dal Insuarance cui si appartiene.
+<p />
+La spesa per il ricovero è sostanzialmente calcolato dal sistema di valutazione totale per l'ospedale funzionale speciale.
+<p />
+Si prega di conservare le ricevute per richiedere la detrazione medico per l'imposta sul reddito.
+<p />
+Se si utilizzano pannolini preparati dall'ospedale, i pannolini pagano.
+<p />
+Servizio Ristorazione 260 yen per un pasto. 780 yen al giorno. Drink è incluso in un pranzo.
+<br />
+<blockquote>
+Quando si deve aspettare un pasto a causa del vostro controllo, il pasto viene preparato per voi da mangiare dopo l'ispezione.
+<br />
+Anche se non si mangia a causa del ritardo della ispezione, il pasto viene fatturato.
+<br />
+</blockquote>
+Come pagare il conto e il tempo
+<p />
+Nei giorni feriali
+<br />
+<blockquote>
+8:45-19:30
+<br />
+<blockquote>
+Contanti, carta di credito, carta di debito
+<br />
+<blockquote>
+Cassa automatica a Tochigi Centro medico infantile di
+<br />
+Cassa Automatica presso l'edificio principale
+<br />
+</blockquote>
+</blockquote>
+9:00-17:15
+<br />
+<blockquote>
+Contanti
+<br />
+<blockquote>
+Cassiere a Tochigi Centro medico infantile di
+<br />
+Cassiere presso l'edificio principale
+<br />
+</blockquote>
+</blockquote>
+17'15 - 08:45 Successivo Morning
+<br />
+<blockquote>
+Contanti, carta di credito, carta di debito
+<br />
+<blockquote>
+Cassa automatica di fronte all'ufficio guardia est dell'edificio principale
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Sa, Do, Vacanze, anniversario della fondazione, di fine anno e Capodanno vacanze
+<br />
+<blockquote>
+00:00 - 24:00
+<br />
+<blockquote>
+Contanti, carta di credito, carta di debito
+<br />
+<blockquote>
+Cassa automatica di fronte all'ufficio guardia est dell'edificio principale
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Avviso
+<br />
+<blockquote>
+È necessario il biglietto la consultazione quando si paga il conto al cassiere una macchina automatica. Si prega di farne richiesta presso la stazione di personale durante il ricovero in ospedale.
+<br />
+Hai bisogno di un numero segreto a pagare con una carta di credito.
+<br />
+Carta di debito significa che si paga con una carta bancomat di una banca o un ufficio postale. Il disegno di legge sarà derivata dal tuo conto.
+<br />
+È possibile utilizzare carta di debito.
+<br />
+<blockquote>
+Giorno della settimana: 8:00-21:00
+<br />
+Sab, dom .: 9:00-19:00
+<br />
+</blockquote>
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Procedura di lasciare l'ospedale
+</h2>
+Il medico responsabile imposta la data di partenza. Potrebbe non soddisfare la richiesta della famiglia.
+<p />
+Quando si lascia l'ospedale, si prega di ottenere il conto alla stazione di personale e pagare alla cassa al 1 ° piano o la macchina cassa automatica.
+<p />
+Dopo il pagamento si prega di mostrare la ricevuta per l'infermiera. Dopo la conferma voi Lascerai per la vostra casa.
+<p />
+Il tempo di partenza è praticamente fino a 11:00
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Consulation al benessere medico
+</h2>
+Gli assistenti sociali in Medical Welfare Sezione consultazione sosterranno per risolvere le preoccupazioni e problemi della famiglia.
+<p />
+Medical benessere la consultazione è gratuita. Tutti i segreti sono conservati. informazioni telefoniche è 0285-58-7816.
+<p />
+<blockquote>
+Il pagamento per la carica medica, vari servizi di welfare, famiglia, servizio di trattamento, la scuola, la vita dopo aver lasciato l'ospedale, la società per gli amici e genitori della stessa malattia
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Il supporto per l'educazione dei figli
+</h2>
+Infermieristica la consultazione e il supporto di residenza sono fatto.
+<p />
+Sosteniamo i bambini e la famiglia in collaborazione con i consulenti sanitari locali e infermieri.
+<p />
+Se avete bisogno di consultare circa il trattamento medico (la vita di cure mediche, l'introduzione e l'uso di attrezzature residenziali di cure mediche, in visita di cura), chiamare Tel: 0285-58-7817.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Strutture in ospedale
+</h2>
+Lavaggio: è possibile utilizzare il lavaggio retribuzione e asciugatrice su ogni piano.
+<p />
+'Donguri' al 1 ° piano in bambini Medical Center. prima necessità quotidiane, cibo e bevande.
+<p />
+J piazza
+<br />
+<blockquote>
+1F L'edificio principale
+<br />
+<blockquote>
+'Family Mart', 'Starbucks', farmacia, negozio di fiori, barbiere
+<br />
+</blockquote>
+2F L'edificio principale
+<br />
+<blockquote>
+ristorante
+<br />
+</blockquote>
+</blockquote>
+1F L'edificio principale
+<br />
+<blockquote>
+Ufficio postale, banca, bancomat
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Costo del Parcheggio
+</h2>
+Parcheggio visitatori
+<br />
+<blockquote>
+Gratuita per i primi 30 minuti. 100 yen per una volta per le successive 24 ore (sigillo di approvazione è necessaria).
+<br />
+Senza sigillo di approvazione, a 200 yen per un'ora.
+<br />
+</blockquote>
+Altri parcheggi ma il parcheggio per i visitatori non sono fondamentalmente autorizzati a utilizzare.
+<p />
+<!-- ----------------------------------------------------------- -->
+
+<!-- ----------------------------------------------------------- -->
 
 
-<i>il 5 febbraio, 2016</i><br />
+<i>il 14 febbraio, 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->

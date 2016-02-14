@@ -94,10 +94,243 @@ S'il vous plaît consulter un médecin ou une infirmière sur le traitement, la 
 Aucun appel de l'extérieur est transmise.<p />
 
 <!-- ----------------------------------------------------------- -->
+<h2>
+Chambre d'hôpital
+</h2>
+Chambre simple ou quatuor. Triple est disponible au 2B.
+<p />
+Chambre est affectée par l'âge, le sexe et l'état de la maladie.
+<p />
+Quand un patient en cas d'urgence grave est acceptée, vous pourrez être invité à changer de chambre.
+<p />
+Une chambre simple a besoin d'un supplément. Le supplément est par une journée (00:00 - 24:00).
+<p />
+Saisie de journée et laissant jour sont facturés comme un jour.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+visiter
+</h2>
+Les visiteurs sont limités pour la sécurité et la prévention infectieuse.
+<p />
+Les visiteurs sont les parents, grands-parents et plus-13-year-old frère.
+<p />
+Ne pas visiter le patient lorsque votre état est mauvais (ex. Rhume).
+<p />
+temps de visite
+<br />
 <blockquote>
+24 heures pour les parents (peu de temps après l'extinction des feux)
+<br />
+15h00-à-19:00 pour les grands-parents et plus-13-year-old frère
+<br />
 </blockquote>
+Pour 2B temps à visiter, s'il vous plaît vérifier au poste de personnel.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+veille de la famille
+</h2>
+Vous ne pouvez pas être en attente à chambre multiple.
+<p />
+En raison de raison particulière que vous souhaitez être en attente, s'il vous plaît consulter un médecin ou une infirmière.
+<p />
+Une famille préposé à une chambre individuelle doit être une personne.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Maison Ronald McDonald Tochigi
+</h2>
+Comme un logement pour la famille et les enfants, vous pouvez utiliser 'Ronald McDonald Maison Tochigi.
+<p />
+S'il vous plaît contact avec Ronald McDonald Maison Tochigi. Tel: 0285-58-7551.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Le projet de loi pour l'hospitalisation
+</h2>
+Pendant l'hospitalisation: Le projet de loi est délivré 10 arount le mois follwing, devrait être versé en une semaine.
+<p />
+Sortie de l'hôpital: Annoncé sur le jour du départ. Doit être payé sur le jour du départ. En raison de travaux de papier, le supplément est facturé après votre sortie de l'hôpital.
+<p />
+  Paiement:
+<br />
+<blockquote>
+Caissier au centre médical de Tochigi enfants
+<br />
+Caissier dans le bâtiment principal
+<br />
+</blockquote>
+Charge pour l'hospitalisation: le droit est défini par le Insuarance laquelle vous appartenez.
+<p />
+La charge de l'hospitalisation est essentiellement calculé par le système d'évaluation totale de l'hôpital fonctionnelle spéciale.
+<p />
+S'il vous plaît garder les reçus de demander la déduction médical pour l'impôt sur le revenu.
+<p />
+Si vous utilisez des couches préparées par l'hôpital, les couches sont facturés.
+<p />
+chargé repas 260 yens par un repas. 780 yens par jour. Drink est inclus dans un déjeuner.
+<br />
+<blockquote>
+Lorsque vous devez attendre un repas à cause de votre inspection, le repas est préparé pour vous de manger après l'inspection.
+<br />
+Même si vous ne mangez pas en raison du retard de l'inspection, le repas est facturé.
+<br />
+</blockquote>
+Comment payer la facture et le temps
+<p />
+Jours de la semaine
+<br />
+<blockquote>
+8 heures 45-19h30
+<br />
+<blockquote>
+Argent comptant, carte de crédit, carte de débit
+<br />
+<blockquote>
+Caissier automatique au centre médical de Tochigi enfants
+<br />
+Caissier automatique dans le bâtiment principal
+<br />
+</blockquote>
+</blockquote>
+9 heures 00-à-17h15
+<br />
+<blockquote>
+Argent liquide
+<br />
+<blockquote>
+Caissier au centre médical de Tochigi enfants
+<br />
+Caissier au bâtiment principal
+<br />
+</blockquote>
+</blockquote>
+17'15 - 08:45 suivante Matin
+<br />
+<blockquote>
+Argent comptant, carte de crédit, carte de débit
+<br />
+<blockquote>
+Caisse automatique en face du bureau de garde à l'est du bâtiment principal
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Sam, dim, vacances, anniversaire de la fondation, de fin d'année et du Nouvel An vacances
+<br />
+<blockquote>
+00:00 - 24:00
+<br />
+<blockquote>
+Argent comptant, carte de crédit, carte de débit
+<br />
+<blockquote>
+Caisse automatique en face du bureau de garde à l'est du bâtiment principal
+<br />
+</blockquote>
+</blockquote>
+</blockquote>
+Avis
+<br />
+<blockquote>
+Vous avez besoin de votre billet d'consulation lorsque vous payez la facture à un guichet de la caisse automatique. S'il vous plaît demander à la station de personnel au cours de l'hospitalisation.
+<br />
+Vous avez besoin d'un numéro secret de payer avec une carte de crédit.
+<br />
+Carte de débit signifie que vous payez avec une carte de paiement d'une banque ou un bureau de poste. Le projet de loi sera dérivée de votre compte.
+<br />
+Vous pouvez utiliser la carte de débit.
+<br />
+<blockquote>
+Jour de la semaine: 8:00-21:00
+<br />
+Sam, dim .: 9:00-19h00
+<br />
+</blockquote>
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Procédure à quitter l'hôpital
+</h2>
+Le médecin en charge de fixer la date de départ. Il pourrait ne pas satisfaire la demande de la famille.
+<p />
+Lorsque vous quittez l'hôpital, s'il vous plaît obtenir la facture à la station de personnel et payer à la caisse au 1er étage ou de la machine de caisse automatique.
+<p />
+Après paiement montrer s'il vous plaît la réception à l'infirmière. Après avoir confirmé que vous quitterez pour votre maison.
+<p />
+Le temps de quitter est fondamentalement jusqu'à 11h00
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Consulation sur le bien-être médical
+</h2>
+travailleurs sociaux médicale section Consultation du bien-être soutiendront pour fixer les soucis et les ennuis de la famille.
+<p />
+Médicale consulation de bien-être est gratuit. Tous les secrets sont conservés. Services d'accueil téléphonique est 0285-58-7816.
+<p />
+<blockquote>
+Le paiement des frais médicaux, service de protection différents, la famille, le service de traitement, l'école, la vie après avoir quitté l'hôpital, de la société des amis et des parents de la même maladie
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Prise en charge de l'éducation des enfants
+</h2>
+consulation des soins infirmiers et le soutien de séjour sont faites.
+<p />
+Nous soutenons les enfants et la famille en collaboration avec des consultants locaux de la santé et des infirmières.
+<p />
+Si vous avez besoin de consulter sur le traitement médical (durée de vie de traitement médical, l'introduction et l'utilisation des équipements de traitement médical résidentiel, infirmières visiteuses), appeler Tel: 0285-58-7817.
+<p />
+<!-- ----------------------------------------------------------- -->
+<h2>
+Installations de l'hôpital
+</h2>
+Lavage: vous pouvez utiliser le lavage des salaires et sèche-linge à chaque étage.
+<p />
+'Donguri' au 1er étage dans le Centre médical pour enfants. nécessités quotidiennes, de la nourriture et des boissons.
+<p />
+J plaza
+<br />
+<blockquote>
+Le bâtiment principal 1F
+<br />
+<blockquote>
+'Family Mart »,« Starbucks », pharmacie, magasin de fleurs, salon de coiffure
+<br />
+</blockquote>
+Le bâtiment principal 2F
+<br />
+<blockquote>
+restaurant
+<br />
+</blockquote>
+</blockquote>
+Le bâtiment principal 1F
+<br />
+<blockquote>
+Bureau de poste, banque, distributeur automatique de billets
+<br />
+</blockquote>
+<!-- ----------------------------------------------------------- -->
+<h2>
+Frais de parking
+</h2>
+Parking de visiteurs
+<br />
+<blockquote>
+Gratuit pour les 30 premières minutes. 100 yens par fois pour les 24 heures suivantes (sceau d'approbation est nécessaire).
+<br />
+Sans joint d'approbation, à 200 yens par heure.
+<br />
+</blockquote>
+D'autres parkings, mais le parking des visiteurs sont en principe pas autorisés à utiliser.
+<p />
+<!-- ----------------------------------------------------------- -->
 
+<!-- ----------------------------------------------------------- -->
 
-<i>le 5 février 2016</i><br />
+<i>le 14 février 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->
