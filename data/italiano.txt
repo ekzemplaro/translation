@@ -157,7 +157,7 @@ Si prega di contattare con 'Ronald McDonald House Tochigi'. Tel: 0285-58-7551.
 <h2>
 Bill per il ricovero in ospedale
 </h2>
-Durante il ricovero in ospedale: Il disegno di legge è rilasciato il 10 arount sul mese follwing, dovrebbe essere pagato entro una settimana.
+Durante il ricovero in ospedale: Il disegno di legge è rilasciato intorno al 10 del mese successivo, shoulderstand essere pagato entro una settimana.
 <p />
 Lasciando l'ospedale: Presentato il giorno di partenza. Dovrebbe essere pagato il giorno di partenza. A causa di opere di carta, l'extra è classificato dopo la vostra lasciato l'ospedale.
 <p />
@@ -169,7 +169,7 @@ Cassiere a Tochigi Centro medico infantile di
 Cassiere presso l'edificio principale
 <br />
 </blockquote>
-Spese per il ricovero in ospedale: La carica individuale è definito dal Insuarance cui si appartiene.
+Spese per il ricovero in ospedale: Il lotto individuo è definita dalla assicurazione che si appartiene.
 <p />
 La spesa per il ricovero è sostanzialmente calcolato dal sistema di valutazione totale per l'ospedale funzionale speciale.
 <p />
@@ -177,7 +177,7 @@ Si prega di conservare le ricevute per richiedere la detrazione medico per l'imp
 <p />
 Se si utilizzano pannolini preparati dall'ospedale, i pannolini pagano.
 <p />
-Servizio Ristorazione 260 yen per un pasto. 780 yen al giorno. Drink è incluso in un pranzo.
+Servizio Ristorazione 260 yen per un pasto. 780 yen al giorno. Rinfresco è incluso in un pranzo.
 <br />
 <blockquote>
 Quando si deve aspettare un pasto a causa del vostro controllo, il pasto viene preparato per voi da mangiare dopo l'ispezione.
@@ -340,6 +340,6 @@ Altri parcheggi ma il parcheggio per i visitatori non sono fondamentalmente auto
 <!-- ----------------------------------------------------------- -->
 
 
-<i>il 14 febbraio, 2016</i><br />
+<i>il 15 febbraio, 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->

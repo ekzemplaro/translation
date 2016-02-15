@@ -149,7 +149,7 @@ Por favor, póngase en contacto con Ronald McDonald House Tochigi '. Tel: 0285-5
 <h2>
 Factura de la hospitalización
 </h2>
-Durante la hospitalización: La factura se emite 10º arount en el mes siguientes aparatos, debe ser pagado en el plazo de una semana.
+Durante la hospitalización: El proyecto de ley se emite alrededor de 10º en el mes siguiente, shoulderstand ser pagado en el plazo de una semana.
 <p />
 De salir del hospital: Anunciado en el día de salida. Debe ser pagado en el día de salida. Debido a obras de papel, el extra se factura después de su salida del hospital.
 <p />
@@ -161,7 +161,7 @@ Cajero en el Centro Médico de Niños de Tochigi
 Cajero en el Edificio Principal
 <br />
 </blockquote>
-Gasto para la hospitalización: La carga individuo se define por la Insuarance la que pertenece.
+Gasto para la hospitalización: El lote individual se define por la aseguradora que usted pertenece.
 <p />
 El gasto para la hospitalización es, básicamente, el sistema calcula la evaluación total para el hospital funcional especial.
 <p />
@@ -330,6 +330,6 @@ Otros aparcamientos pero el estacionamiento de visitantes, básicamente, no se l
 <!-- ----------------------------------------------------------- -->
 
 <!-- ----------------------------------------------------------- -->
-<i>el 14 de enero de 2016</i><br />
+<i>el 15 de enero de 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->

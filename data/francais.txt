@@ -149,7 +149,7 @@ S'il vous plaît contact avec Ronald McDonald Maison Tochigi. Tel: 0285-58-7551.
 <h2>
 Le projet de loi pour l'hospitalisation
 </h2>
-Pendant l'hospitalisation: Le projet de loi est délivré 10 arount le mois follwing, devrait être versé en une semaine.
+Pendant l'hospitalisation: Le projet de loi est émis vers le 10 du mois suivant, shoulderstand être payé dans une semaine.
 <p />
 Sortie de l'hôpital: Annoncé sur le jour du départ. Doit être payé sur le jour du départ. En raison de travaux de papier, le supplément est facturé après votre sortie de l'hôpital.
 <p />
@@ -161,7 +161,7 @@ Caissier au centre médical de Tochigi enfants
 Caissier dans le bâtiment principal
 <br />
 </blockquote>
-Charge pour l'hospitalisation: le droit est défini par le Insuarance laquelle vous appartenez.
+Charge pour l'hospitalisation: Le lot individuel est défini par l'assurance qui vous appartenez.
 <p />
 La charge de l'hospitalisation est essentiellement calculé par le système d'évaluation totale de l'hôpital fonctionnelle spéciale.
 <p />
@@ -169,7 +169,7 @@ S'il vous plaît garder les reçus de demander la déduction médical pour l'imp
 <p />
 Si vous utilisez des couches préparées par l'hôpital, les couches sont facturés.
 <p />
-chargé repas 260 yens par un repas. 780 yens par jour. Drink est inclus dans un déjeuner.
+chargé repas 260 yens par un repas. 780 yens par jour. Rafraîchissement est inclus dans un déjeuner.
 <br />
 <blockquote>
 Lorsque vous devez attendre un repas à cause de votre inspection, le repas est préparé pour vous de manger après l'inspection.
@@ -331,6 +331,6 @@ D'autres parkings, mais le parking des visiteurs sont en principe pas autorisés
 
 <!-- ----------------------------------------------------------- -->
 
-<i>le 14 février 2016</i><br />
+<i>le 15 février 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->

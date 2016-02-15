@@ -132,7 +132,7 @@ Please contact with 'Ronald McDonald House Tochigi'.  Tel: 0285-58-7551.<p />
 
 <!-- ----------------------------------------------------------- -->
 <h2>Bill for the hospitalization</h2>
-During hospitalization: The bill is issued arount 10th on the follwing month, should be paid within a week.<p />
+During hospitalization: The bill is issued around 10th on the following month, should be paid within a week.<p />
 
 Leaving the hospital: Billed on the leaving day. Should be paid on the leaving day. Because of paper works, the extra is billed after your leaving the hospital.<p />  
 
@@ -141,14 +141,14 @@ Payment:<br />
 	Cashier at Tochigi Children's Medical Center<br />
 	Cashier at the Main Building<br />
 </blockquote>
-Expense for the hospitalization: The individual charge is defined by the Insuarance which you belong to.<p />
+Expense for the hospitalization: The individual charge is defined by the Insurance which you belong to.<p />
 The expense for the hospitalization is basically calculated by the total evaluating system for the special functional hospital.<p />
 
 Please keep receipts to request the medical deduction for the income tax.<p />
 
 If you use diapers prepared by the hospital, the diapers are charged.<p />
 
-Meal charge: 260 yen per a meal. 780 yen per a day. Refreshement is included in a lunch.<br />
+Meal charge: 260 yen per a meal. 780 yen per a day. Refreshment is included in a lunch.<br />
 <blockquote>
 	When you have to wait a meal because of your inspection, the meal is prepared for you to eat after the inspection.<br />
 	Even though you don't eat it because of the inspection's delay, the meal is billed.<br />
@@ -262,5 +262,5 @@ Other parkings but the Visitors' Parking are basically not allowed to use.<p />
 
 
 <!-- ----------------------------------------------------------- -->
-<i>Feb/14/2016</i><br />
+<i>Feb/15/2016</i><br />
 <!-- ----------------------------------------------------------- -->

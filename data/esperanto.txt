@@ -150,7 +150,7 @@ Bonvolu kontakti kun 'Ronald McDonald House Tochigi'. Tel: 0285-58-7551.
 <h2>
 Bekon por la hospitalización
 </h2>
-Dum hospitalización: La beko estas emisiita arount 10a sur la follwing monato, estu pagitaj en semajno.
+Dum hospitalización: La beko estas emisiita ĉirkaŭ 10º sur la sekva monato, estu pagitaj en semajno.
 <p />
 Lasante la hospitalo: Proklamite la forlasante tago. Devus esti pagita sur la forlasante tago. Pro papero verkoj, la ekstra estas fakturita post via forlasante la hospitalon.
 <p />
@@ -162,7 +162,7 @@ Kasisto ĉe Tochigi Infana Medicina Centro
 Kasisto ĉe la Ĉefa Konstruaĵo
 <br />
 </blockquote>
-Elspezo por la hospitalización: La individua zorge difinas la Insuarance kiu vi apartenas.
+Elspezo por la hospitalización: La individua zorge difinas la Asekuro kiu vi apartenas.
 <p />
 Malprofite por la hospitalización estas esence kalkulita per la totala taksado sistemo por la speciala funkcia hospitalo.
 <p />
@@ -170,7 +170,7 @@ Bonvolu teni kvitancojn peti la medicina depreno por la enspezimposto.
 <p />
 Se vi uzas vindotukojn preparita de la hospitalo, la vindotukoj estas ŝargita.
 <p />
-Manĝo zorge: 260 eno por manĝo. 780 eno po tago. Refreshement estas inkluzivita en lunĉo.
+Manĝo zorge: 260 eno por manĝo. 780 eno po tago. Malvarmeta trinkaĵo estas inkluzivita en lunĉo.
 <br />
 <blockquote>
 Kiam vi devos atendi manĝo pro via inspektado, la manĝo estas preta por vi manĝi post la inspektado.
@@ -331,6 +331,6 @@ Aliaj parkejoj sed la Vizitantoj 'Parkumado estas esence ne rajtas uzi.
 <!-- ----------------------------------------------------------- -->
 
 <!-- ----------------------------------------------------------- -->
-<i>la 14-an de februaro, 2016</i><p />
+<i>la 15-an de februaro, 2016</i><p />
 
 <!-- ----------------------------------------------------------- -->

@@ -152,7 +152,7 @@ Bitte nehmen Sie Kontakt mit "Ronald McDonald House Tochigi '. Tel: 0285-58-7551
 <h2>
 Rechnung für den Krankenhausaufenthalt
 </h2>
-Während des Krankenhausaufenthaltes: Die Rechnung arount 10. auf den follwing Monat abgesetzt wird, sollte innerhalb einer Woche bezahlt werden.
+Während des Krankenhausaufenthaltes: Der Gesetzentwurf ist auf den folgenden Monat um den 10. ausgegeben werden, sollten innerhalb einer Woche bezahlt werden.
 <p />
 Beim Verlassen des Krankenhauses: Berechnet auf der Abgangs Tag. Sollte am Tag der Abreise bezahlt. Wegen der Papierarbeiten wird die zusätzliche Rechnung nach dem Verlassen des Krankenhauses.
 <p />
@@ -164,7 +164,7 @@ Kassierer in Tochigi Kinder Medical Center
 Kassiererin im Hauptgebäude
 <br />
 </blockquote>
-Kosten für den Krankenhausaufenthalt: Die einzelnen Ladung durch die Insuarance definiert ist, der Sie angehören.
+Kosten für den Krankenhausaufenthalt: Die einzelnen Ladung wird von der Versicherungs definiert, die Sie angehören.
 <p />
 Die Kosten für den Krankenhausaufenthalt ist im Wesentlichen durch die Gesamtauswertungssystems für die speziellen Funktions Krankenhaus berechnet.
 <p />
@@ -172,7 +172,7 @@ Bitte halten Sie Quittungen der medizinischen Abzug für die Einkommensteuer zu 
 <p />
 Wenn Sie von der Klinik vorbereitet Windeln verwenden, werden die Windeln gefüllt.
 <p />
-Mahlzeit Gebühr: ¥ 260 pro einer Mahlzeit. ¥ 780 pro einen Tag. Erfrischungen in einem Mittagessen enthalten.
+Mahlzeit Gebühr: ¥ 260 pro einer Mahlzeit. ¥ 780 pro einen Tag. Erfrischung in einem Mittagessen enthalten.
 <br />
 <blockquote>
 Wenn Sie eine Mahlzeit warten müssen, weil der Inspektion wird der Mahlzeit zubereitet für Sie nach der Inspektion zu essen.
@@ -334,6 +334,6 @@ Weitere Parkplätze, aber das Besucherparkplätze sind im Grunde nicht zu nutzen
 
 <!-- ----------------------------------------------------------- -->
 
-<i>den 14. Februar, 2016</i><br />
+<i>den 15. Februar, 2016</i><br />
 
 <!-- ----------------------------------------------------------- -->
