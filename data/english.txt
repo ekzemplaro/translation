@@ -3,7 +3,7 @@
 <h2>Hospitalization</h2>
 
 <blockquote>
-Those, who are requested to hospitalize, please fill in the request form and come to the reception desk at the 1st floor in Tochigi Children's Medical Center. Yo'll be given necessary documents.<p />
+Those, who are requested to hospitalize, please fill in the request form and come to the reception desk at the 1st floor in Tochigi Children's Medical Center. You'll be given necessary documents.<p />
 </blockquote>
 
 Documents<br />
