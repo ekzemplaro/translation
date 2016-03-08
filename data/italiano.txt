@@ -147,7 +147,7 @@ Una famiglia addetto ad una camera singola deve essere una sola persona.
 <p />
 <!-- ----------------------------------------------------------- -->
 <h2>
-Tochigi Ronald McDonald House
+Ronald McDonald House Tochigi
 </h2>
 Come un alloggio per la famiglia e bambini si può usare 'Ronald McDonald House Tochigi'.
 <p />

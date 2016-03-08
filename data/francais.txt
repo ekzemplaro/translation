@@ -139,11 +139,11 @@ Une famille préposé à une chambre individuelle doit être une personne.
 <p />
 <!-- ----------------------------------------------------------- -->
 <h2>
-Maison Ronald McDonald Tochigi
+Maison Ronald McDonald de Tochigi
 </h2>
-Comme un logement pour la famille et les enfants, vous pouvez utiliser 'Ronald McDonald Maison Tochigi.
+Comme un logement pour la famille et les enfants, vous pouvez utiliser 'Maison Ronald McDonald de Tochigi.
 <p />
-S'il vous plaît contact avec Ronald McDonald Maison Tochigi. Tel: 0285-58-7551.
+S'il vous plaît contact avec Maison Ronald McDonald de Tochigi. Tel: 0285-58-7551.
 <p />
 <!-- ----------------------------------------------------------- -->
 <h2>

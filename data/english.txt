@@ -194,7 +194,7 @@ Sat,Sun,Holidays,Anniversary of the founding,Year-end and New Year holidays<br /
 
 Notice<br />
 <blockquote>
-You need your consulation ticket when you pay the bill at an automatic cashier machine. Please request it at the staff station during the hospitalization.<br />
+You need your consultation ticket when you pay the bill at an automatic cashier machine. Please request it at the staff station during the hospitalization.<br />
 You need a secret number to pay it with a credit card.<br />
 Debit Card means you pay it with a cash card of a bank or a post office. The bill will be derived from your account.<br />
 You can use Debit Card.<br />
@@ -215,17 +215,17 @@ After payment please show the receipt to the nurse. After confirming you'll leav
 The leaving time is basically until 11:00 a.m.<p />
 
 <!-- ----------------------------------------------------------- -->
-<h2>Consulation about the medical welfare</h2>
+<h2>Consultation about the medical welfare</h2>
 
-Social workers at Medical Welfare Consulation Section will support to fix the family's worries and troubles.<p />
+Social workers at Medical Welfare Consultation Section will support to fix the family's worries and troubles.<p />
 
-Medical welfare consulation is free of charge. All secrets are kept. Telephone inquiery is 0285-58-7816.<p />
+Medical welfare consultation is free of charge. All secrets are kept. Telephone inquiery is 0285-58-7816.<p />
 	<blockquote>
 	Payment for medical charge, various welfare service, family, treatment service, school, Life after leaving the hospital, society for friends and parents of the same disease<br />
 	</blockquote>
 <!-- ----------------------------------------------------------- -->
 <h2>Support for raising children</h2>
-Nursing consulation and residence support are done.<p />
+Nursing consultation and residence support are done.<p />
 We support children and family in conjunction with local health consultants and nurses.<p />
 If you need to consult about medical treatment (medical treatment life, introduction and usage for residential medical treatment equipment, visiting nursing), call Tel: 0285-58-7817.<p />
  
@@ -262,5 +262,5 @@ Other parkings but the Visitors' Parking are basically not allowed to use.<p />
 
 
 <!-- ----------------------------------------------------------- -->
-<i>Feb/15/2016</i><br />
+<i>Mar/08/2016</i><br />
 <!-- ----------------------------------------------------------- -->
